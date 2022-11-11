@@ -1,0 +1,12 @@
+/*style de modal Impresion*/
+
+@media print{
+    .oculto-impresion,
+    .oculto-impresion *{
+        display: none !important;
+    }
+}
+.imgTicket{
+    width:5rem;
+    height: 5rem;
+}
